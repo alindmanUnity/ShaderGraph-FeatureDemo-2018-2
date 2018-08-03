@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d428c9334a7112647821d9b488ca0543, type: 3}
+  m_Name: Resources
+  m_EditorClassIdentifier: 
+  lwAsset: {fileID: 11400000, guid: a692e4372a9993f4ea7225fa3c28c3bd, type: 2}
+  hdAsset: {fileID: 11400000, guid: d3b852cf860d9be4e8cd9b4128bfc679, type: 2}
+  lwSkybox: {fileID: 2100000, guid: a58b76c42264fad47aa863e38d3567a7, type: 2}
+  LWPrefab: {fileID: 1706542279294850, guid: 91f3309bc8c7fbf418089a150598e30e, type: 2}
+  HDPrefab: {fileID: 1618162844612372, guid: 2b4696953bdb2b243ae28b452611c97d, type: 2}

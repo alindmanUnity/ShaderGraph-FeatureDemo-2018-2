@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+  m_Name: Readme
+  m_EditorClassIdentifier: 
+  icon: {fileID: 2800000, guid: 559dc6d0e1d9d24458ff8057bca6e74b, type: 3}
+  title: Shader Graph Update 2018.2
+  sections:
+  - heading: 2018.2 Sample Project
+    text: This project comes with sample graphs for great looking foliage and environment
+      shaders and demos a technique for switching between two render pipelines. An
+      in-depth breakdown of the Shader Graph techniques used in this project can be
+      found in the accompanying blog post.
+    linkText: Shader Graph Updates and Sample Project Blog Post
+    url: 
+  - heading: 
+    text: 'The Shader Graph tool allows users to create shaders using a visual node
+      editor instead of writing code. Read more about the shader graph here: '
+    linkText: Shader Graph
+    url: https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki/Shader-Graph
+  - heading: 
+    text: 'To read more about the Scriptable Render Pipelines check out the Scriptable
+      Render Pipeline wiki here: '
+    linkText: Scriptable Render Pipeline
+    url: https://github.com/Unity-Technologies/ScriptableRenderPipeline/wiki
+  - heading: 
+    text: 'This project includes assets from Book of the Dead, which are now available
+      for free on the Asset Store. To read more about this project and the assets
+      available, visit the Unity webpage here:'
+    linkText: Book of the Dead
+    url: https://unity3d.com/book-of-the-dead
+  loadedLayout: 1
