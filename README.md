@@ -19,3 +19,4 @@ Note: This project demos multiple features that are still in Preview, which mean
 As such, some of these features may be subject to change (API, UX, scope, etc.) and aren’t covered by traditional Unity support. 
 You can report issues with Preview features on our [forum](https://forum.unity.com/forums/graphics-experimental-previews.110/?_ga=2.75910933.1446511377.1522795261-1647295365.1509665782) page.
 
+This demo was built by Alex Lindman, Unity Graphic's Tech Art Intern.
