@@ -2,10 +2,10 @@
 
 **Read the official [Blog Post](https://blogs.unity3d.com/?p=70662/)**
 
-**This Project is intended to work Unity release [2018.2](https://unity3d.com/get-unity/update).**
+**This Project is intended to work with Unity release [2018.2](https://unity3d.com/get-unity/update).**
 
 This demo Project showcases some of the new features introducted in the Shadergraph tool in 2018.2. 
-It uses ShaderGraph to create a foliage focused scene, refer to the in project Readme for links to documentation about the tools used.
+It uses ShaderGraph to create a foliage focused scene. Refer to the in project Readme for links to documentation about the tools used.
 
 In this project you will find sample graphs for great looking foliage and environment shaders, as well as a possible technique for switching between two render pipelines. 
 On the Readme inspector, you’ll find buttons that switch between Lightweight and High Definition Render Pipelines. 
