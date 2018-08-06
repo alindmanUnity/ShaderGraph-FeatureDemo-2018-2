@@ -20,7 +20,7 @@ MonoBehaviour:
       in-depth breakdown of the Shader Graph techniques used in this project can be
       found in the accompanying blog post.
     linkText: Shader Graph Updates and Sample Project Blog Post
-    url: 
+    url: https://blogs.unity3d.com/?p=70662/
   - heading: 
     text: 'The Shader Graph tool allows users to create shaders using a visual node
       editor instead of writing code. Read more about the shader graph here: '

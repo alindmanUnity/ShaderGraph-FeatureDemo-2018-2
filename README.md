@@ -1,6 +1,6 @@
 # Shader Graph Updates and Sample Project
 
-**Read the official [Blog Post](https://blogs.unity3d.com/en/2018/02/27/introduction-to-shader-graph-build-your-shaders-with-a-visual-editor/)**
+**Read the official [Blog Post](https://blogs.unity3d.com/?p=70662/)**
 
 **This Project is intended to work Unity release [2018.2](https://unity3d.com/get-unity/update).**
 

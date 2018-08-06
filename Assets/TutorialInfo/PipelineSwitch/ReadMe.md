@@ -2,7 +2,7 @@
 # Scriptable Render Pipeline (SRP) Hot Switching
 This folder contains the content needed to easily switch from the Lightweight Render Pipeline (LWRP) to the High Definition Render Pipeline (HDRP). 
 
-For information about the whole project, see our [blog post](link to blog post here).
+For information about the whole project, see our [blog post](https://blogs.unity3d.com/?p=70662/).
 
 For information about the SRP and each pipeline, see the following:
 
