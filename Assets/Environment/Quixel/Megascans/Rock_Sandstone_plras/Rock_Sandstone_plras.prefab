@@ -37,7 +37,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4856367802206116}
   m_Layer: 0
-  m_Name: Rock_Sandstone
+  m_Name: Rock_Sandstone_plras
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -62,8 +62,8 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1790557837083720}
-  m_LocalRotation: {x: 0, y: 0, z: -0, w: 1}
-  m_LocalPosition: {x: -61.37317, y: 105.6302, z: -171.8385}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0.1, y: -0.18, z: 0.18}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_Children:
   - {fileID: 4300824836210398}

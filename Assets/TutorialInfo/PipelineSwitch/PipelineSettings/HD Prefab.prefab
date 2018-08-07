@@ -56,7 +56,7 @@ GameObject:
   - component: {fileID: 4393893785977036}
   - component: {fileID: 114441440432850926}
   m_Layer: 0
-  m_Name: HD Prefab_Option2
+  m_Name: HD Prefab
   m_TagString: ScenePrefab
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -83,13 +83,13 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1364891809688302}
-  m_LocalRotation: {x: 0.10771307, y: -0.27658415, z: 0.82766515, w: 0.47630823}
+  m_LocalRotation: {x: 0.38202482, y: -0.35608602, z: 0.08223472, w: 0.8488211}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 4393893785977036}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 34.087, y: -5.9030004, z: 118.34901}
+  m_LocalEulerAnglesHint: {x: 45, y: -50, z: -10.797001}
 --- !u!4 &4799919000771944
 Transform:
   m_ObjectHideFlags: 1
@@ -113,7 +113,7 @@ Light:
   serializedVersion: 8
   m_Type: 1
   m_Color: {r: 1, g: 0.9481132, b: 0.8066038, a: 1}
-  m_Intensity: 5
+  m_Intensity: 6
   m_Range: 10
   m_SpotAngle: 30
   m_CookieSize: 10
@@ -132,7 +132,7 @@ Light:
   m_CullingMask:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_Lightmapping: 1
+  m_Lightmapping: 4
   m_LightShadowCasterMode: 2
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 1
@@ -166,7 +166,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 --- !u!114 &114737183941393876
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1364891809688302}
@@ -198,12 +198,12 @@ MonoBehaviour:
   applyRangeAttenuation: 1
   useOldInspector: 0
   featuresFoldout: 1
-  showAdditionalSettings: 0
+  showAdditionalSettings: 1
   displayLightIntensity: 6
   displayAreaLightEmissiveMesh: 0
 --- !u!114 &114752418999883334
 MonoBehaviour:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   m_GameObject: {fileID: 1364891809688302}
@@ -213,7 +213,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   version: 1
-  shadowResolution: 512
+  shadowResolution: 2048
   shadowDimmer: 1
   shadowFadeDistance: 10000
   contactShadows: 0
@@ -229,9 +229,9 @@ MonoBehaviour:
   edgeTolerance: 1
   shadowCascadeCount: 4
   shadowCascadeRatios:
-  - 0.005
-  - 0.015
-  - 0.3
+  - 0.001
+  - 0.049
+  - 0.07
   shadowCascadeBorders:
   - 0
   - 0

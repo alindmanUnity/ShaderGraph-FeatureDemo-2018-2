@@ -62,19 +62,19 @@ MonoBehaviour:
     max: 5
   skyTint:
     m_OverrideState: 1
-    m_Value: {r: 0, g: 0.21130976, b: 0.6037736, a: 1}
+    m_Value: {r: 0.33397114, g: 0.41697893, b: 0.745283, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   groundColor:
     m_OverrideState: 1
-    m_Value: {r: 0.369, g: 0.349, b: 0.341, a: 1}
+    m_Value: {r: 0.3679245, g: 0.3679245, b: 0.3679245, a: 1}
     hdr: 0
     showAlpha: 1
     showEyeDropper: 1
   enableSunDisk:
     m_OverrideState: 1
-    m_Value: 1
+    m_Value: 0
 --- !u!114 &114859917023550302
 MonoBehaviour:
   m_ObjectHideFlags: 3

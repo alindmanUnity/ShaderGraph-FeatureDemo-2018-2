@@ -6,7 +6,7 @@ Material:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: MeadowGrass_01
+  m_Name: Meadow_Grass_01
   m_Shader: {fileID: 4800000, guid: d5df5ca55997c1a44a13f478cc6a8739, type: 3}
   m_ShaderKeywords: _USENORMALMAP_ON
   m_LightmapFlags: 4
